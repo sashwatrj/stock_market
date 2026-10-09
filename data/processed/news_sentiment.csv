@@ -1,0 +1,9 @@
+Date,Ticker,Headline,Sentiment,Sentiment_Score
+2025-01-06,RELIANCE.NS,Company reports strong quarterly earnings,positive,0.9512671828269958
+2025-01-07,TCS.NS,Technology company announces major new contract,positive,0.5437805652618408
+2025-01-08,INFY.NS,IT company faces weaker demand outlook,negative,0.9689338803291321
+2025-01-09,HDFCBANK.NS,Bank reports growth in quarterly loan portfolio,positive,0.9532546997070312
+2025-01-10,ICICIBANK.NS,Bank announces improved quarterly results,positive,0.8966817855834961
+2025-01-13,SBIN.NS,Bank reports higher quarterly profit,positive,0.9323988556861877
+2025-01-14,ITC.NS,Company announces expansion of business operations,positive,0.7238867282867432
+2025-01-15,LT.NS,Infrastructure company receives major project order,neutral,0.8585194945335388

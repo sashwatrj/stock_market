@@ -1,0 +1,15 @@
+Ticker,Technical_Score,Technical_Direction,Technical_Reasons
+AXISBANK,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+BHARTIARTL,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+HDFCBANK,-3,DOWN,MACD is below signal line; Price is below 50-day SMA; 10-day momentum is negative
+HINDUNILVR,1,UP,MACD is above signal line; Price is below 50-day SMA; 10-day momentum is positive
+ICICIBANK,-3,DOWN,MACD is below signal line; Price is below 50-day SMA; 10-day momentum is negative
+INFY,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+ITC,1,UP,MACD is above signal line; Price is below 50-day SMA; 10-day momentum is positive
+KOTAKBANK,3,UP,MACD is above signal line; Price is above 50-day SMA; 10-day momentum is positive
+LT,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+MARUTI,3,UP,MACD is above signal line; Price is above 50-day SMA; 10-day momentum is positive
+RELIANCE,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+SBIN,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
+SUNPHARMA,-3,DOWN,MACD is below signal line; Price is below 50-day SMA; 10-day momentum is negative
+TCS,1,UP,MACD is below signal line; Price is above 50-day SMA; 10-day momentum is positive
